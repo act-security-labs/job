@@ -1,3 +1,11 @@
+## [0.1.77](https://github.com/act-security-labs/job/compare/v0.1.76...v0.1.77) (2026-11-09)
+
+
+### Bug Fixes
+
+* pin retry-enabled dependency update action ([f545e3e](https://github.com/act-security-labs/job/commit/f545e3e81340695397befebd8246ab55077be3b9))
+* stagger dependency update schedule ([2489867](https://github.com/act-security-labs/job/commit/24898676185f85960f675fd2643e35cddb4dd99a))
+
 ## [0.1.76](https://github.com/act-security-labs/job/compare/v0.1.75...v0.1.76) (2026-11-07)
 
 ## [0.1.75](https://github.com/act-security-labs/job/compare/v0.1.74...v0.1.75) (2026-10-31)
